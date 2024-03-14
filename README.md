@@ -1,22 +1,22 @@
-# <center>Simmongs</center>
+# <div align=center>Simmongs</div>
 
-<hr>
-
-> <center>명지전문대학 인터넷보안공학과 캡스톤디자인 생산관리 ERP 웹 사이트</center>
+<div align=center>명지전문대학 인터넷보안공학과 캡스톤디자인 생산관리 ERP 웹 사이트</div>
 
 <br>
 
 ## 🖥️ 프로젝트 소개
-<hr>
 
-
+![Simmongs_pipeline 002](https://github.com/parkuijin/SimmongsBackend/assets/45947824/e4be26c7-16d9-4172-982a-ff4bce90b995)
 
 <br>
 
-## 프로젝트 구조
-<hr>
+## 🔨 프로젝트 구조
 
+![Simmongs_pipeline 001](https://github.com/parkuijin/SimmongsBackend/assets/45947824/cb62d442-fc14-44dc-9215-f12ee6c863f0)
 
+![Simmongs_pipeline 004](https://github.com/parkuijin/SimmongsBackend/assets/45947824/e7c4ce8f-bf5e-4070-b77e-7883e0d43328)
+
+![Simmongs_pipeline 005 001](https://github.com/parkuijin/SimmongsBackend/assets/45947824/f19e5f2a-4f8f-470b-b15c-5b0d9d1126d8)
 
 <br>
 
