@@ -27,7 +27,7 @@
 ### [ 재고 관리 ]
 
 #### 1. 재고 등록
-`Post` `/products/uploadProduct`
+`POST` `/products/uploadProduct`
 <br>
 
 #### 2. 재고 조회
@@ -35,7 +35,7 @@
 <br>
 
 #### 3. 재고 수정
-`Post` `/products/updateProduct`
+`POST` `/products/updateProduct`
 <br>
 
 #### 4. 재고 삭제
